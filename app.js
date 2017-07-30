@@ -1,7 +1,5 @@
 let lifesMeaning = 42;
 
-let sayName() = false;
-
 console.log('What is the meaning of life?')
 
 function sayName() {
